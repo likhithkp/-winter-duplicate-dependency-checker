@@ -1,6 +1,16 @@
-  {
-    "name": "@winter/duplicate-dependency-checker",
-    "version": "1.0.0",
-    "main": "index.js",
-    "license": "MIT"
-  }
+{
+  "name": "ddc",
+  "version": "1.0.0",
+  "description": "A CLI tool to detect duplicate dependencies in your Node.js projects. Simplify your dependency management and avoid bloated `node_modules` with ease.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "git-dev": "^2.0.0",
+    "git-dev-1": "^2.0.2"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
