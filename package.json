@@ -1,0 +1,6 @@
+  {
+    "name": "@winter/duplicate-dependency-checker",
+    "version": "1.0.0",
+    "main": "index.js",
+    "license": "MIT"
+  }
